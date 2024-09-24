@@ -1,0 +1,13 @@
+requests
+re
+tls-client
+warnings
+os
+webbrowser
+mailtm
+urllib3
+time
+itertools
+subprocess
+pywin32
+colorama
